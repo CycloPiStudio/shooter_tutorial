@@ -72,12 +72,14 @@ bounce = 0.6
 [node name="Testing_Area" type="Spatial"]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.17307, 0, 0 )
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource( 2 )
 
 [node name="Cubes" type="Spatial" parent="."]
 editor/display_folded = true
+visible = false
 
 [node name="PurpleCube" type="RigidBody" parent="Cubes"]
 editor/display_folded = true
@@ -254,6 +256,7 @@ material/0 = SubResource( 7 )
 
 [node name="Targets" type="Spatial" parent="."]
 editor/display_folded = true
+visible = false
 
 [node name="Target_Whole" parent="Targets" instance=ExtResource( 3 )]
 transform = Transform( -4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -39.5618, 9.30001, 0 )
@@ -283,14 +286,14 @@ transform = Transform( -1, 0, 8.74228e-08, 6.69697e-08, 0.642788, 0.766044, -5.6
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 16.0198, 2.68939, 21.5176 )
 
 [node name="Health_Pickup_Small" parent="." instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 29.6413, 2.68939, 21.5176 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 29.6413, 2.68939, 27.5078 )
 kit_size = 1
 
 [node name="Ammo_Pickup" parent="." instance=ExtResource( 5 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -17.7308, 3, 24.4157 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -12.3396, 3, 14.8313 )
 
 [node name="Ammo_Pickup_Small" parent="." instance=ExtResource( 5 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -28.2338, 3, 24.4157 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -25.8377, 3, 24.4157 )
 kit_size = 1
 
 [node name="Turret_Raycast" parent="." instance=ExtResource( 6 )]
@@ -301,4 +304,4 @@ use_raycast = true
 transform = Transform( -0.866025, 0, -0.5, 0, 1, 0, 0.5, 0, -0.866025, -32, 0.841041, -30 )
 
 [node name="nivel_1" parent="." instance=ExtResource( 7 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0757351, 0 )
+transform = Transform( 2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0.0757351, 0 )
