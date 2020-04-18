@@ -22,4 +22,15 @@ ____
 Huge thanks to everyone that's helped with the tutorial!
 
 Gracia por el aporte
-Cyclo Pi regcoge el guante
+
+Cyclo Pi regcoge el guante:
+
+Collaborators and partners:
+
+Cyclo π Studio in Github https://cyclopistudio.github.io/
+
+Cyclo π Studio Web 2017 http://greenfactory.es/23d/cyclopi.html
+
+Juan Blender https://sites.google.com/site/blender3dgear/
+
+greenfactory.es http://greenfactory.es/
