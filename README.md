@@ -24,8 +24,11 @@ Huge thanks to everyone that's helped with the tutorial!
 Gracia por el aporte
 
 Cyclo Pi regcoge el guante:
+Exportación:
 
-Collaborators and partners:
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/260-muros/muros.html
+
+Collaborators:
 
 Cyclo π Studio in Github https://cyclopistudio.github.io/
 
