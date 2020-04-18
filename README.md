@@ -20,3 +20,6 @@ The FPS project here on Github currently uses Godot 3.1! Be sure to use Godot 3.
 ____
 
 Huge thanks to everyone that's helped with the tutorial!
+
+Gracia por el aporte
+Cyclo Pi regcoge el guante
